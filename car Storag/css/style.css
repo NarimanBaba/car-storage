@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.cars-list{
+    margin-top: 3%;
+    padding: 2%;
+}
+label{
+    font-weight: 500;
+}
+select{
+    padding: 2%;
+    border-radius: 11px;
+    outline: none;
+}
+button{
+    text-transform: uppercase;
+}
+#find{
+    width: 100px;
+}
